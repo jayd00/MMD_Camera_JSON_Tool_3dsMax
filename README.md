@@ -4,7 +4,7 @@
 
 A 3ds Max tool to convert camera animations (MMD/Blender) to JSON format compatible with CLEO Redux Dance Loader for GTA San Andreas.
 
-**Version:** 5.4  
+**Latest Version:** 5.5  
 **Author:** J16D  
 **Latest Update:** December 26, 2025
 
